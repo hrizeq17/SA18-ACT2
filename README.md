@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# SA18-ACT2
+>>>>>>> fc0a996f665fedb0a89f22a79d0e78990d7b8356
